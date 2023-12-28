@@ -17,9 +17,9 @@ const projects: Project[] = [
 		link: "https://tenzies-lilbee.netlify.app/",
 	},
 	{
-		title: "Meme Generator",
-		techs: ["React", "Material UI"],
-		link: "https://memegenerator-lilbee.netlify.app/",
+		title: "Quote Generator",
+		techs: ["React", "Typescript", "Chakra UI"],
+		link: "https://quotes-generator-lilbee.netlify.app/",
 	},
 	{
 		title: "Password Generator",
@@ -27,14 +27,9 @@ const projects: Project[] = [
 		link: "https://passwordgenerator-lilbee.netlify.app/",
 	},
 	{
-		title: "Sushiman Landing Page",
+		title: "Responsive Web Dev - DevChallenges.io",
 		techs: ["HTML", "CSS", "Responsive"],
-		link: "https://sushiman-lilbee.netlify.app/",
-	},
-	{
-		title: "Edie Homepage",
-		techs: ["HTML", "CSS", "Responsive"],
-		link: "https://ediehomepage-lilbee.netlify.app/",
+		link: "https://github.com/lil-bee/ResponsiveWebDev-DevChallenges.io",
 	},
 	{
 		title: "Astro - Portofolio",
@@ -44,4 +39,3 @@ const projects: Project[] = [
 ];
 
 export default projects;
-
