@@ -1,7 +1,7 @@
 backend:
  name: git-gateway
  repo: lil-bee/portofolio #replace with your githu repo
- branch: master
+ branch: main
  squash_merges: true
  open_authoring: true
 
