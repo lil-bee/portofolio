@@ -14,7 +14,7 @@ const presentation: Presentation = {
   mail: "fdhlakbr280102@gmail.com",
   title: "Hi, I’m Fadhil 👋",
   description:
-    "Howdy, i'm an *Indonesian Frontend Engineer* specializing in the *React ecosystem*. Passionate about crafting pretty UI and smooth animations with *Framer Motion*. Currently *exploring backend development* and tackling projects to sharpen my engineering skills. Outside tech, you'll find me watching football or reading book.",
+    "I'm a Front-End Engineer from Indonesia with a passion for crafting accessible interfaces using React, TypeScript, and modern tools like Tailwind CSS, Shadcn/ui, and Framer Motion. I'm currently expanding into backend development to build more end-to-end solutions. Beyond code, I enjoy football and reading.",
   socials: [
     {
       label: "Bento",
