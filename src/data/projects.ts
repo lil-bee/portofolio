@@ -7,7 +7,7 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Devflow - Stackoverflow Clone",
+    title: "Devflow - QnA Platform, Stackoverflow Clone",
     techs: ["Next.js 14", "MongoDB", "Shadcn UI", "Tailwind CSS"],
     link: "https://devflow-lilbee.vercel.app/",
   },
